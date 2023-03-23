@@ -1,0 +1,11 @@
+table,th,td {border: 1px solid black;}
+table.a {border-collapse: collapse;}
+table.b {border-collapse:collapse; width: 100%;}
+td,b th,b{text-align: center; height: 50px;}
+table.c {border-collapse:collapse; width: 100%;}
+table.c, th, td {border: 1px solid black;}
+th.c { height: 50px;}
+td,c { padding: 15px;}
+tr:hover{background-color: #6b8f68}
+th.c {height: 50px; background-color:greenyellow;}
+
